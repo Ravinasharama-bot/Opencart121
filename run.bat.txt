@@ -1,0 +1,3 @@
+cd C:\Users\dell\eclipse-workspacenewprojectpractice\Opencart121
+mvn test
+pause
